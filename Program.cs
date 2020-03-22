@@ -10,6 +10,7 @@ namespace OperadoresPreYPost
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ejemplo simple de pre-incremento y post-incremento");
             int a = 3;
             int b = ++a;
             Console.WriteLine($"a = {a}");
