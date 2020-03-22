@@ -30,7 +30,7 @@ namespace OperadoresPreYPost
             txtResultado.Text += "Resultado:\r\n";
             txtResultado.Text += $"a = {a}\r\n";
             txtResultado.Text += $"b = {b}\r\n\r\n";
-            // Comentario a confirmar
+
             txtResultado.Text += "Inizializamos c = 3, d = c++\r\n";
             int c = 3;
             int d = c++;
