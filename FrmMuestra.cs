@@ -10,7 +10,7 @@ namespace OperadoresPreYPost
         public FrmMuestra()
         {
             InitializeComponent();
-            
+
             Load += FrmMuestra_Load;
             txtResultado = new TextBox()
             {
