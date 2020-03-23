@@ -5,6 +5,7 @@ using System.Windows.Forms;
 namespace OperadoresPreYPost
 {
     /* Este nuevo comenario es mi gran contribución. */
+    /* Segunda contribución con problemas a eliminar */
     public partial class FrmMuestra : Form
     {
         TextBox txtResultado;
