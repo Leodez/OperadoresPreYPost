@@ -4,6 +4,7 @@ using System.Windows.Forms;
 
 namespace OperadoresPreYPost
 {
+    /* Este nuevo comenario es mi gran contribución. */
     public partial class FrmMuestra : Form
     {
         TextBox txtResultado;
