@@ -5,6 +5,7 @@ using System.Windows.Forms;
 namespace OperadoresPreYPost
 {
     /* Este nuevo comenario es mi gran contribución. */
+    /* Agrego texto 19:18 */ 
     public partial class FrmMuestra : Form
     {
         TextBox txtResultado;
